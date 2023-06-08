@@ -62,4 +62,21 @@ h1, h2{
   margin: 350px;
   margin-top: auto;
   margin-bottom: auto;
+  border-radius: -15px;
+}
+.iconStyle{
+height: 150px;
+width: 150px;
+margin-top: 35px;
+margin-bottom: 35px;
+margin-left: 70px;
+border-radius: 50%;
+}
+.tel{
+margin-left: 265px;
+
+}
+.text1{
+ font-family:"Palatino Linotype", "Book Antiqua3", "Palatino", serif, Tahoma, Geneva, sans-serif;
+
 }
