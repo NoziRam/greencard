@@ -1,4 +1,6 @@
-
+body, html{
+  font-size: 18px;
+}
 /* Header */
 .header {
   width: 80%;
@@ -18,7 +20,7 @@
 
 /* Main */
 .main{
-  width: 80%;
+  width: 95%;
   margin: 5px auto;
   
 }
