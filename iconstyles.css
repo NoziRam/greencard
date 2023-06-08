@@ -29,8 +29,8 @@
 }
 .wrapper .icon span{
   /* display: block; */
-  height: 30px;
-  width: 30px;
+  height: 60px;
+  width: 60px;
   background: #fff;
   border-radius: 50%;
   position: relative;
@@ -39,7 +39,7 @@
   transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 .wrapper .icon span i{
-  line-height: 30px;
+  line-height: 60px;
   font-size: 13px;
 }
 .wrapper .icon .tooltip{
